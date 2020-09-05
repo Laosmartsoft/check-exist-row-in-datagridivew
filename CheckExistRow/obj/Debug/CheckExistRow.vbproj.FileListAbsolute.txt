@@ -1,0 +1,11 @@
+C:\Users\Keooudone\source\repos\CheckExistRow\CheckExistRow\bin\Debug\CheckExistRow.exe
+C:\Users\Keooudone\source\repos\CheckExistRow\CheckExistRow\bin\Debug\CheckExistRow.pdb
+C:\Users\Keooudone\source\repos\CheckExistRow\CheckExistRow\bin\Debug\CheckExistRow.xml
+C:\Users\Keooudone\source\repos\CheckExistRow\CheckExistRow\obj\Debug\CheckExistRow.vbprojAssemblyReference.cache
+C:\Users\Keooudone\source\repos\CheckExistRow\CheckExistRow\obj\Debug\CheckExistRow.Form1.resources
+C:\Users\Keooudone\source\repos\CheckExistRow\CheckExistRow\obj\Debug\CheckExistRow.Resources.resources
+C:\Users\Keooudone\source\repos\CheckExistRow\CheckExistRow\obj\Debug\CheckExistRow.vbproj.GenerateResource.cache
+C:\Users\Keooudone\source\repos\CheckExistRow\CheckExistRow\obj\Debug\CheckExistRow.vbproj.CoreCompileInputs.cache
+C:\Users\Keooudone\source\repos\CheckExistRow\CheckExistRow\obj\Debug\CheckExistRow.exe
+C:\Users\Keooudone\source\repos\CheckExistRow\CheckExistRow\obj\Debug\CheckExistRow.xml
+C:\Users\Keooudone\source\repos\CheckExistRow\CheckExistRow\obj\Debug\CheckExistRow.pdb
